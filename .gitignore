@@ -1,0 +1,9 @@
+/storage/*
+!/storage/.gitkeep
+/node_modules/
+/.DS_Store
+/.agents/
+/.codex/
+/.aws
+/tests/
+/README.md
